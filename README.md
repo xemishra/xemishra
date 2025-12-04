@@ -22,6 +22,9 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://www.mongodb.com/">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
 </p>
 
 ## Tools:
@@ -40,6 +43,9 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   </a>
   <a href="https://developer.android.com/studio">
     <img src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
