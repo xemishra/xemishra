@@ -15,6 +15,9 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://go.dev/">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
 </p>
 
 ## Databases:
@@ -44,8 +47,11 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://developer.android.com/studio">
     <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
-  <a href="https://developer.android.com/studio">
+  <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
 
