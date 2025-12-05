@@ -28,6 +28,9 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
 </p>
 
 ## Tools:
