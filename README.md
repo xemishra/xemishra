@@ -56,6 +56,12 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://gitlab.com/xemishra">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
 </p>
 
 ## GitHub Stats:
@@ -78,9 +84,13 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://discordapp.com/users/1433062284745248990">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=Discord" />
   </a>
 </p>
+
+## Buy ME a Coffee
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/YOUR_USERNAME)
+
 
 ## Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
