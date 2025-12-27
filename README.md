@@ -58,10 +58,29 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   </a>
 </p>
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xemishra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xemishra&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xemishra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## Contacts?
+<p>
+  <a href="xemishra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://code.linkedin.com/in/xemishra">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.x.com/xemishra">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://instagram.com/xemishra">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discordapp.com/users/1433062284745248990">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 ## Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
