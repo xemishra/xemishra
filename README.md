@@ -12,6 +12,9 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://www.oracle.com/java/">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
+  <a href="https://html.spec.whatwg.org/multipage/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
   <a href="https://go.dev/">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
