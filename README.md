@@ -75,7 +75,7 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xemishra&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xemishra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Contacts?
+## Contacts:
 <p>
   <a href="xemishra@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -94,7 +94,7 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   </a>
 </p>
 
-## Buy ME a Coffee
+## Buy ME a Coffee:
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/xemishra)
 
 
