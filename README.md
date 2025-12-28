@@ -68,10 +68,10 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://figma.com/">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
-  <a href="">
+  <a href="https://aws.amazon.com/">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
-  <a href="">
+  <a href="https://vercel.com/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
