@@ -62,6 +62,12 @@ I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my codi
   <a href="https://gitlab.com/xemishra">
     <img src="https://skillicons.dev/icons?i=gitlab" />
   </a>
+  <a href="https://heroku.com/">
+    <img src="https://skillicons.dev/icons?i=heroku" />
+  </a>
+  <a href="https://figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
 </p>
 
 ## GitHub Stats:
