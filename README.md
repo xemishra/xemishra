@@ -1,5 +1,5 @@
 ## Hey! I'm Shivanand Mishra!
-I’m a 17-year-old developer and a B.Tech CSE (AIML) student. I started my coding journey with Python, which is my first programming language. I also work with C, and I’m currently learning Java. Apart from coding, I love listening to music in my free time.
+I am an 18-year-old developer and a B.Tech CSE (AIML) student. I began my coding journey with Python, which is my first programming language. I also work with C and am currently learning Java. In addition, I have experience with HTML and CSS for frontend development. For databases, I work with MongoDB and MySQL. Outside of coding, I enjoy listening to music in my free time.
 
 ## Languages:
 <p>
