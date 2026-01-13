@@ -19,7 +19,7 @@ I am an 18-year-old developer and a B.Tech CSE (AIML) student. I began my coding
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
   <a href="https://kotlinlang.org/">
-    <img src="https://skillicons.dev/icons?i=kotlin" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 </p>
 
