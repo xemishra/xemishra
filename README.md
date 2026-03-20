@@ -14,13 +14,6 @@ I am an 18-year-old developer and a B.Tech CSE (AIML) student. I began my coding
   </a>
   <a href="https://html.spec.whatwg.org/multipage/">
     <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://go.dev/">
-    <img src="https://skillicons.dev/icons?i=go" />
-  </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
 </p>
 
 ## Databases:
