@@ -1,5 +1,5 @@
 ## Hey! I'm Shivanand Mishra!
-I am an 18-year-old developer and a B.Tech CSE (AIML) student. I began my coding journey with Python, which is my first programming language. I also work with C and am currently learning Java. In addition, I have experience with HTML and CSS for frontend development. For databases, I work with MongoDB and MySQL. Outside of coding, I enjoy listening to music in my free time.
+I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about building scalable and efficient APIs. I began my coding journey with Python and currently work with FastAPI for backend development. I also work with C and Java, along with HTML. For databases, I work with MySQL, MongoDB, and Redis. I also have experience with Docker, Git, API integration, and building clean, maintainable backend systems. Outside of coding, I enjoy listening to music in my free time.
 
 ## Languages:
 <p>
