@@ -96,8 +96,5 @@ I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about build
   </a>
 </p>
 
-## Buy ME a Coffee:
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/xemishra)
-
 ## Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
