@@ -73,9 +73,7 @@ I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about build
 </p>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xemishra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xemishra&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xemishra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-stats-extended.vercel.app/api/?username=xemishra&show_icons=true&theme=github_dark" alt="Stats">
 
 ## Contacts:
 <p>
