@@ -12,6 +12,9 @@ I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about build
   <a href="https://www.oracle.com/java/">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
+  <a href="https://go.dev/">
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
   <a href="https://html.spec.whatwg.org/multipage/">
     <img src="https://skillicons.dev/icons?i=html" />
 </p>
