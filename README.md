@@ -83,7 +83,7 @@ I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about build
   <a href="xemishra@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://code.linkedin.com/in/xemishra">
+  <a href="https://linkedin.com/in/xemishra">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.x.com/xemishra">
