@@ -23,6 +23,15 @@ I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about build
   <a href="https://www.javascript.com/">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://vite.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
 
 ## Databases:
 <p>
