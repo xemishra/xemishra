@@ -1,6 +1,6 @@
 ## Hey! I'm Shivanand Mishra!
 
-I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about building scalable and efficient APIs. I began my coding journey with Python and currently work with FastAPI for backend development. I also work with C, Java and JavaScript , along with HTML CSS. For databases, I work with MySQL, MongoDB, and Redis. I also have experience with Docker, Git, API integration, and building clean, maintainable backend systems. Outside of coding, I enjoy listening to music in my free time.
+I’m a Backend Developer and a B.Tech CSE (AIML) student passionate about building scalable and efficient APIs. I began my coding journey with Python and currently work with FastAPI for backend development. I also work with C, Java, Go, TypeScript and JavaScript , along with HTML CSS. For databases, I work with MySQL, MongoDB, and Redis. I also have experience with Docker, Git, API integration, and building clean, maintainable backend systems. Outside of coding, I enjoy listening to music in my free time.
 
 ## Languages:
 <p>
